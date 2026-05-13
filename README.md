@@ -11,8 +11,8 @@
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=robertuspamungkas25&theme=dark&hide_border=true)<br/>
 ![](https://github-stats-extended.vercel.app/api?username=robertuspamungkas25&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)<br/>
-![](https://github-stats-extended.vercel.app/api/top-langs?username=robertuspamungkas25&langs_count=4&theme=tokyonight)<br/>
-![](https://github-profile-trophy.vercel.app/?username=robertuspamungkas25&theme=darkhub&rank=SSS,SS,S,AAA,AA,A,B,C)
+![](https://github-stats-extended.vercel.app/api/top-langs?username=robertuspamungkas25&langs_count=4&theme=tokyonight&hide_border=true)<br/>
+![](https://github-profile-trophy.vercel.app/?username=robertuspamungkas25&theme=darkhub&rank=SSS,SS,S,AAA,AA,A,B,C&hide_border=true)
 
 
 ---
