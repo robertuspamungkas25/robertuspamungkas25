@@ -1,5 +1,6 @@
 # 💫 About Me:
-helo I'm Robertus Tri Uji Pamungkas Atmaja im IT support and WEB developer
+# I'm Robertus Tri Uji Pamungkas Atmaja 
+## IT support and WEB developer
 
 
 ## 🌐 Socials:
